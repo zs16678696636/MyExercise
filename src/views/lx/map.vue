@@ -13,7 +13,7 @@ export default {
   components: {},
   watch: {},
   mounted () {
-    // 百度地图API功能
+    // 百度地图API功能..
     var map = new BMap.Map("map");    // 创建Map实例
     map.centerAndZoom(new BMap.Point(120.38105, 36.177271), 11);  // 初始化地图,设置中心点坐标和地图级别
     //添加地图类型控件
