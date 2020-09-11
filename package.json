@@ -22,14 +22,19 @@
     "vue": "^2.6.10",
     "vue-baidu-map": "^0.21.22",
     "vue-router": "^3.0.3",
+    "vue-timers": "^2.0.4",
+    "vuedraggable": "^2.23.2",
     "vuex": "^3.0.1",
     "vuex-along": "^1.2.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "compression-webpack-plugin": "^4.0.0",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
+    "postcss-px-to-viewport": "^1.1.1",
     "vue-template-compiler": "^2.6.10"
   },
   "postcss": {
